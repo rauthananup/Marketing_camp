@@ -33,4 +33,4 @@ Our objective is to provide a complete analysis of the behaviour of the customer
 📌 Customers with no kids seem to have higher income, which means that they might fit our targeted profile better.
 
 📌 As a result, it might make sense for us to figure out how to tap into their disposable income (that they have no kids to spend on!) with our campaigns
-   Finally one thought on recency, I didn't find any correlation between any campaign and recency But I think potential future campaigns that get inactiv        customers making purchases could be interesting.
+   Finally one thought on recency, I didn't find any correlation between any campaign and recency But I think potential future campaigns that get inactive        customers making purchases could be interesting.
